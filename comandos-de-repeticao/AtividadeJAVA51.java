@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AtividadeJAVA51 {
+public class AtividadeJava51 {
     public static void main(String[] args) {
         Scanner leitor = new Scanner(System.in);
         int s = 0, n = 0, fs = 0, mn = 0, tf = 0, tm = 0;
